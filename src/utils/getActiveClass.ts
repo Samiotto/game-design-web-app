@@ -1,0 +1,1 @@
+export const getActiveClass = (isActive: boolean) => (isActive ? 'active' : '');
